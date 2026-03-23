@@ -45,8 +45,8 @@ dev = [
 [project.urls]
 Homepage = "https://llmconveyors.com"
 Documentation = "https://llmconveyors.com/docs"
-Repository = "https://github.com/llmconveyors/python-sdk"
-Issues = "https://github.com/llmconveyors/python-sdk/issues"
+Repository = "https://github.com/ebenezer-isaac/llmconveyors-python-package"
+Issues = "https://github.com/ebenezer-isaac/llmconveyors-python-package/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/llmconveyors"]
